@@ -1,0 +1,19 @@
+{
+    "site_settings": {
+        "logo": "",
+        "manufacturer_logo":"",
+        "color": {
+            "primary": "#808000",
+            "backgound": "#4b74a1",
+            "dark": "#1f2e43"
+        },
+        "title": "",
+        "Subtitle": "",
+        "footer-text": "All Rights Reserved"
+    },
+    "theme": ["dealer", "ascentia", "panagea", "lms"],
+    "lat":"",
+    "lng":"",
+    "captcha_key":"",
+    "enable_google_captcha":false
+}

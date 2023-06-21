@@ -1,0 +1,15 @@
+{
+	"billing_config":
+	{
+		"frequency": "quarterly"
+	},
+	"invoice":
+	{
+		"payment_terms": ["Payment to be made withing 10 days of invoice generation", "Payment to be made in favour of Sachin Sumant Rawool"],
+		"payment_method":
+		{
+			"upi": "9999999999",
+			"gpay": "9999999999"
+		}
+	}
+}

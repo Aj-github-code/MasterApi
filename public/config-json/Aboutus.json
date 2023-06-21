@@ -1,0 +1,25 @@
+{
+	"about": {
+		"text": "About Company Text",
+		"team_image": "team-image.jpg"
+	},
+	"mission": {
+		"text": "Mission Text",
+		"mission_image": "mission-image.jpg"
+	},
+	"vision": {
+		"text": "Vision Text",
+		"vision_image": "vission-image.jpg"
+	},
+	"our_teams":true,
+	"brands":true,
+	"additional_info": {
+		"assentia": {
+			"process_image": "process.jpg",
+			"process_video": "process.mp4",
+			"process_text":"",
+			"research_text":"",
+			"research_image":"research.jpg"
+		}
+	}
+}

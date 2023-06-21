@@ -1,0 +1,62 @@
+{
+    "sliders":{
+        "settings": {
+            "loop":true,
+            "margin":10,
+            "responsiveClass":true,
+            "responsive":{
+                "0":{
+                    "items":1,
+                    "nav":true,
+                    "loop":false
+                },
+                "600":{
+                    "items":3,
+                    "nav":false,
+                    "loop":false
+                },
+                "1000":{
+                    "items":5,
+                    "nav":true,
+                    "loop":false
+                }
+            }
+        },
+        "internal_link":"sliders/list",
+		"parameters":{
+		    "slider_code":["S001"]
+		}
+    },
+    "contact-us":{
+        "image":"bike-image.jpg",
+        "title":"Book your vehicle now and ride later",
+        "contact_no":["1280079700 "],
+        "button_text":"Book Now",
+        "button_link":"contact-us"
+    },
+    "services":{
+		"title":"Our Services",
+		"heading":"Your one stop for all your Two wheelers needs",
+		"internal_link":"products/list",
+		"parameters":{
+		    "product_category_id":[1]
+		}
+	},
+	"products":{
+		"title":"Our Products",
+		"heading":"TVS bikes price starts at ₹ 40,990. TVS has a total of 17 bikes of which 2 models are upcoming which include Creon and Zeppelin. The TVS Apache RR310 is the most expensive Electric bike with a price tag of ₹ 2.5 Lakh. Select a TVS Electric bike to find out its latest price, specifications, features and more.",
+        "internal_link":"products/list",
+		"parameters":{
+		    "product_category_id":[2]
+		}
+	    
+	},
+    "testimonials":{
+	    "title":"Testimonials",
+	    "heading":false,
+	    "internal_link":"testimonials/list",
+		"parameters":{
+		    "active":true
+		}
+    }
+}
